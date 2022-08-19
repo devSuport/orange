@@ -18,12 +18,20 @@
 }
 
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 115, 0);
 }
 
 .btn-primary{
-  background-color: orangered;
+  background-color: rgb(107, 107, 107);
 }
 .btn-primary:hover{
   background-color: rgb(255, 153, 0);
+}
+
+.header{
+  background-color: rgb(255, 102, 0);
+  color: rgb(0, 0, 0);
+  padding: 10px;
+ 
+  font-size: 1.5rem;
 }
